@@ -12,7 +12,6 @@ Aplikasi modular berbasis **Streamlit** untuk berbagai tugas pemrosesan citra, t
 6. [Menjalankan Aplikasi](#menjalankan-aplikasi)
 7. [Penggunaan](#penggunaan)
 8. [Pemecahan Masalah](#pemecahan-masalah)
-9. [Kontribusi](#kontribusi)
 
 ## Ringkasan
 
@@ -233,17 +232,8 @@ Gunakan sidebar di sisi kiri untuk memilih fitur.
   * Pastikan gambar valid (JPEG/PNG).
   * SSIM bisa gagal untuk gambar kecil – aplikasi akan menangani ini otomatis.
 
-## Kontribusi
-
-* Fork repo.
-* Buat branch baru untuk fitur atau perbaikan.
-* Lakukan pull request dengan deskripsi jelas.
-* Ikuti gaya penulisan PEP 8 dan sertakan error handling.
-
 ---
 
 *Terakhir diperbarui: 22 Juni 2025*
 
 ---
-
-Jika kamu ingin saya buatkan versi markdown `.md`, PDF, atau file ZIP siap unduh, tinggal beri tahu.
